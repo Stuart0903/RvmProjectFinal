@@ -82,7 +82,8 @@ python main.py
 
 ### Circuit Diagram
 Below is the circuit diagram for connecting components to your Arduino:
-![image](https://github.com/user-attachments/assets/0ba08189-aaee-44e7-a532-14bc13a419fc)
+![image](https://github.com/user-attachments/assets/313247a3-821e-4e4d-a2de-9fc3c352cbca)
+
 
 
 
