@@ -25,7 +25,7 @@ The RVM (Reverse Vending Machine) Project is an advanced Python-based applicatio
 
 #### 2️⃣ Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Stuart0903/RvmProjectFinal.git
 ```
 > 💡 Keep the cloned repository in a dedicated folder
 
